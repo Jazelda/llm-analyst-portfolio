@@ -11,3 +11,86 @@ These prompts demonstrate:
 - Structured thinking for repeatable LLM workflows  
 
 Use these prompts as-is or adapt them to match grade bands, content standards, or classroom needs
+
+
+---
+
+## ✅ How These Prompts Are Designed
+
+Each prompt meets the following expectations:
+
+### **1. Standards Awareness**
+Prompts reference grade levels, skills, and standards (e.g., CCSS, NGSS) to ensure outputs stay aligned to classroom expectations.
+
+### **2. Instructional Clarity**
+Prompts include clear requirements, structured deliverables, and step-by-step expectations that mirror real teacher workflows.
+
+### **3. Output Quality**
+Prompts include constraints related to:
+- grade-band vocabulary  
+- task length  
+- specificity  
+- format  
+- accuracy  
+- safety and age-appropriateness  
+
+### **4. Flexible Adaptation**
+Prompts support:
+- varied grade levels  
+- different content areas  
+- multilingual learners  
+- differentiated instruction  
+- authentic assessment  
+
+---
+
+## ✅ Prompt List
+
+This library currently contains five educator-focused prompts:
+
+1. **Standards-Aligned Question Set Generator**  
+2. **Differentiated Task Generator (Approaching, On-Level, Extending)**  
+3. **Misconception-Focused Mini Lesson**  
+4. **Text Complexity Simplifier for Multilingual Learners**  
+5. **Project-Based Learning (PBL) Outline with Authentic Assessment**  
+
+Each file includes a self-contained prompt with placeholders teachers can adapt.
+
+---
+
+## ✅ Usage
+
+Prompts can be run in:
+- MagicSchool
+- ChatGPT
+- Gemini
+- Claude
+- Any LLM used for instructional design or classroom preparation
+
+Educators can:
+- paste prompts directly into a model  
+- substitute their own text, standards, or learning objectives  
+- adjust the scope based on grade-range or unit plan  
+
+---
+
+## ✅ Future Additions
+
+Planned expansions include:
+- Math-specific prompt sets
+- NGSS-aligned science prompts
+- Writing scaffolds and conferencing tools
+- Social studies inquiry cycles
+- SEL and advisory prompts
+- School leadership & PLC support prompts
+- Assessment design prompts
+- Behavior supports and tiered interventions  
+
+---
+
+## ✅ License
+
+All prompts in this library are free to use and adapt.  
+This repository contains only synthetic educational content.
+
+
