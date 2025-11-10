@@ -1,0 +1,8 @@
+Create a differentiated set of tasks for a classroom with three readiness levels (Approaching, On-Level, Extending) based on the learning objective: 
+“{LEARNING_OBJECTIVE}”
+
+Requirements:
+- 1 task per level
+- Same skill focus but different entry points
+- Include instructions for students and a quick rubric (3 criteria)
+- Keep tasks appropriate for grades {GRADE_RANGE}
