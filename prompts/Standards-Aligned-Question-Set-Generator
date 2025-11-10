@@ -1,0 +1,10 @@
+Create 5 standards-aligned comprehension questions for the passage below. 
+Requirements:
+- Identify the grade level: {GRADE}
+- Use the relevant ELA standard: {STANDARD_CODE}
+- Include: 1 main idea question, 2 detail questions, 1 inference question, and 1 vocabulary-in-context question.
+- Provide an answer key.
+- Keep language at the requested grade band.
+
+Passage:
+{INSERT_PASSAGE}
