@@ -1,0 +1,24 @@
+# SQL Playground
+
+This repository contains a collection of intermediate-level SQL patterns that demonstrate my proficiency with analytical SQL.  
+The examples are intentionally small and focused on commonly required transformations used in analytics, reporting, QA workflows, and model evaluation pipelines.
+
+All queries use **synthetic** sample schemas and can be adapted to Snowflake, Postgres, BigQuery, or similar SQL engines.
+
+---
+
+## ✅ How to Use This Repository
+
+These queries are meant as:
+- standalone SQL patterns  
+- a demonstration of analytical fluency  
+- a reference set for interviews or technical assessments  
+- templates for real-world reporting or evaluation work  
+
+Each file is fully copyable and runnable with a simple synthetic dataset.
+
+---
+
+## ✅ License
+
+All SQL patterns in this repository are free to use and adapt.
